@@ -1,3 +1,4 @@
+```
 # **Hi there\! 👋 I'm Alessio\!**
 
 I'm a passionate and curious Computer Engineering student from Italy 🇮🇹.
@@ -21,3 +22,4 @@ I'm a passionate and curious Computer Engineering student from Italy 🇮🇹.
 - Always looking for new challenges and opportunities to grow 🌱.
 
 Thanks for stopping by\! 😊
+```
